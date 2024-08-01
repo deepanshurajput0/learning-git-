@@ -1,1 +1,6 @@
-# learning-git-
+# Resume 
+
+Freelance Experience 
+
+Kambucha Juice Webiste 
+
